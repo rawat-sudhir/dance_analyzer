@@ -1,5 +1,3 @@
-# Teaching a Model to Watch Dance
-
 ![Azure OpenAI dance analyzer overview](assets/dance-analyzer-overview.svg)
 
                 Some experiments begin with a grand architecture diagram. This one began with a stage.
