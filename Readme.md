@@ -188,5 +188,5 @@ That is the kind of AI assistant I want in creative learning spaces: not a judge
 
 ## Watch the performance video
 <a href="https://youtu.be/jXyAnqinsfc">
-  <img src="assets/dance_icon.jpg" alt="Watch the Bharatanatyam performance video" width="500">
+  <img src="assets/dance_icon.jpeg" alt="Watch the Bharatanatyam performance video" width="500">
 </a>
