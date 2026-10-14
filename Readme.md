@@ -97,8 +97,6 @@ The analysis also found practical improvement areas:
 
 This is where AI becomes helpful: not because it replaces the teacher, but because it produces a first-pass review that a teacher can refine.
 
-The report was also careful about confidence. It noted that the review was based on sampled frames, so continuous rhythm, exact tala alignment, detailed facial expression, and fine mudra precision need either audio analysis, closer camera angles, or teacher review.
-
 ## Coaching feedback
 
 The coaching section is the most actionable part of the output.
@@ -179,33 +177,6 @@ or:
 > "The final poses were strong. Now try checking whether everyone enters those poses together."
 
 That keeps the conversation encouraging. It gives parents language that supports the teacher's work rather than replacing it.
-
-## Privacy and responsible sharing
-
-Because dance videos often include identifiable performers, especially students or children, privacy has to be part of the workflow.
-
-Before sharing a video, report, or generated image publicly:
-
-- get consent from performers and guardians where required
-- avoid publishing full names or personal details
-- avoid exposing private Blob URLs or SAS tokens
-- prefer private links for teaching review
-- use short, approved highlight clips for public promotion
-
-The generated report can be useful internally even when the original video should remain private.
-
-## What I would add next
-
-This first version already produces a useful report, but there is room to grow:
-
-- audio-based tala and rhythm alignment, especially for jatis and korvais
-- closer-angle review for mudra and abhinaya
-- side-view analysis for back alignment, torso tilt, and araimandi depth
-- comparison between rehearsal and final performance
-- highlight detection for short clips
-- dancer self-reflection notes after watching the performance
-- a teacher dashboard for reviewing multiple student videos over time
-
 
 ## Closing thought
 
