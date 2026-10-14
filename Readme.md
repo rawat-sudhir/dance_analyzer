@@ -1,3 +1,5 @@
+<img src="assets/dance-analyzer-icon.svg" width="44" align="left" alt="Dance analyzer icon">
+
 # Teaching a Model to Watch Dance
 
 ![Azure OpenAI dance analyzer overview](assets/dance-analyzer-overview.svg)
