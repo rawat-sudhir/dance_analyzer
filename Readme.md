@@ -187,4 +187,6 @@ The best part was that it could turn a recording into a conversation: What worke
 That is the kind of AI assistant I want in creative learning spaces: not a judge, not a replacement for expertise, but a patient reviewer that helps humans see their own work more clearly.
 
 ## Watch the performance video
-[![Watch the performance](assets/dance_icon.jpg)](https://youtu.be/jXyAnqinsfc)
+<a href="https://youtu.be/jXyAnqinsfc">
+  <img src="assets/dance_icon.svg" alt="Watch the Bharatanatyam performance video" width="500">
+</a>
