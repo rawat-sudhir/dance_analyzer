@@ -2,7 +2,7 @@
 
 ![Azure OpenAI dance analyzer overview](assets/dance-analyzer-overview.svg)
 
-Some experiments begin with a grand architecture diagram. This one began with a stage.
+                Some experiments begin with a grand architecture diagram. This one began with a stage.
 
 The recording looked simple at first: a wide camera angle, a decorated stage, and a group of Bharatanatyam dancers moving through formations under steady lights.
 
