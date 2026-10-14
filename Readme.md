@@ -39,7 +39,7 @@ flowchart LR
     F --> H[Markdown report]
 ```
 
-The implementation intentionally uses sampled frames instead of uploading the full video directly. That keeps the solution practical, repeatable, and easier to reason about. It also forces the model to stay grounded in visible evidence.
+The implementation intentionally uses sampled frames instead of uploading the full video directly.
 
 ## What the model saw
 
@@ -113,30 +113,6 @@ Azure OpenAI can help by creating a repeatable second set of eyes:
 
 The important design choice is humility. The system should say what it can see, say what it cannot see, and avoid making claims about identity, age, intent, or cultural meaning that are not supported by the evidence.
 
-## Privacy and responsible sharing
-
-Because dance videos often include identifiable performers, especially students or children, this solution treats privacy as part of the workflow.
-
-Before sharing a video or analysis publicly:
-
-- get consent from performers and guardians where required
-- avoid publishing full names or personal details
-- avoid exposing private Blob URLs or SAS tokens
-- prefer private links for teaching review
-- use short, approved highlight clips for public promotion
-
-The generated report can be useful internally even when the original video should remain private.
-
-## What I would add next
-
-This first version already produces a useful report, but there is room to grow:
-
-- audio-based tala and rhythm alignment
-- closer-angle review for mudra and abhinaya
-- side-view analysis for posture and araimandi depth
-- comparison between rehearsal and final performance
-- highlight detection for short clips
-- a teacher dashboard for reviewing multiple student videos
 
 ## Closing thought
 
