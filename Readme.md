@@ -185,3 +185,9 @@ The best part of this experiment was not that the model could describe a dance v
 The best part was that it could turn a recording into a conversation: What worked well? What should we practice next? What should the dancers feel proud of? What can the teacher focus on in the next rehearsal?
 
 That is the kind of AI assistant I want in creative learning spaces: not a judge, not a replacement for expertise, but a patient reviewer that helps humans see their own work more clearly.
+
+## Watch the performance video
+
+<video controls width="100%">
+  <source src="https://youtu.be/jXyAnqinsfc" type="video/mp4">
+</video>
