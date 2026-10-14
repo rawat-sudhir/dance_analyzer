@@ -1,5 +1,7 @@
 # Teaching a Model to Watch Dance
 
+![Azure OpenAI dance analyzer overview](assets/dance-analyzer-overview.svg)
+
 Some experiments begin with a grand architecture diagram. This one began with a stage.
 
 The video was simple at first glance: a Bharatanatyam group performance, recorded from the audience, with dancers moving through lines, arcs, central highlights, low stances, and symmetrical poses. The camera stayed wide, the stage lighting stayed steady, and the real story lived in the formations: how the group filled the stage, how the dancers framed the center, how arm lines, timing, spacing, and expression came together.
